@@ -1,0 +1,20 @@
+# WordPress dosyaları (demo için)
+wp-content/
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
+
+# IDE dosyaları
+.vscode/
+.idea/
+
+# Geçici dosyalar
+*.tmp
+*.temp

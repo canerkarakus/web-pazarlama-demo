@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" width="200" height="120">
+  <defs>
+    <style>
+      .logo-text { fill: currentColor; font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; }
+    </style>
+  </defs>
+  
+  <!-- W harfi -->
+  <path d="M20 20 L35 80 L50 40 L65 80 L80 20 L70 20 L60 60 L50 30 L40 60 L30 20 Z" fill="currentColor"/>
+  
+  <!-- Nokta -->
+  <circle cx="100" cy="75" r="8" fill="currentColor"/>
+  
+  <!-- Alt yazı -->
+  <text x="20" y="105" class="logo-text" font-size="14">Web Pazarlama</text>
+</svg>
